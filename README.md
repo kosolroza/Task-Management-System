@@ -1,5 +1,3 @@
-# Task-Management-System
-
 # 🗂️ Task Management API
 
 > A production-ready RESTful backend API built with **FastAPI**, featuring secure authentication, role-based access control, and a full-featured task management system.
